@@ -12,7 +12,7 @@ Each project reflects practical cybersecurity work focused on identifying vulner
 A structured audit evaluating organizational security controls, identifying risks, and providing remediation recommendations.
 
 🔗 View Project:  
-https://github.com/Darkpearlzz/Cybersecurity_Portfolio/security_audit
+https://github.com/Darkpearlzz/Cybersecurity_Portfolio/tree/main/security_audit
 
 **Skills Demonstrated:**
 
